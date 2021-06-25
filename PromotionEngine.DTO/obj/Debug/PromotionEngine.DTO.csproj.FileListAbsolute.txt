@@ -3,3 +3,8 @@ C:\Users\badik\source\repos\PromotionEngine\PromotionEngine.ViewModels\bin\Debug
 C:\Users\badik\source\repos\PromotionEngine\PromotionEngine.ViewModels\obj\Debug\PromotionEngine.DTO.csproj.CoreCompileInputs.cache
 C:\Users\badik\source\repos\PromotionEngine\PromotionEngine.ViewModels\obj\Debug\PromotionEngine.ViewModels.dll
 C:\Users\badik\source\repos\PromotionEngine\PromotionEngine.ViewModels\obj\Debug\PromotionEngine.ViewModels.pdb
+D:\Sandeep\New folder\Promotions\PromotionEngine.DTO\bin\Debug\PromotionEngine.DTO.dll
+D:\Sandeep\New folder\Promotions\PromotionEngine.DTO\bin\Debug\PromotionEngine.DTO.pdb
+D:\Sandeep\New folder\Promotions\PromotionEngine.DTO\obj\Debug\PromotionEngine.DTO.csproj.CoreCompileInputs.cache
+D:\Sandeep\New folder\Promotions\PromotionEngine.DTO\obj\Debug\PromotionEngine.DTO.dll
+D:\Sandeep\New folder\Promotions\PromotionEngine.DTO\obj\Debug\PromotionEngine.DTO.pdb

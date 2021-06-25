@@ -50,13 +50,13 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\PromotionEngine.DTO\PromotionEngine.DTO.csproj">
+      <Project>{65776e34-c682-4ce6-8de0-ab44daf1813e}</Project>
+      <Name>PromotionEngine.DTO</Name>
+    </ProjectReference>
     <ProjectReference Include="..\PromotionEngine.Services\PromotionEngine.Services.csproj">
       <Project>{855505d5-40ae-4c5d-9064-87cd6d66c426}</Project>
       <Name>PromotionEngine.Services</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\PromotionEngine.ViewModels\PromotionEngine.DTO.csproj">
-      <Project>{65776e34-c682-4ce6-8de0-ab44daf1813e}</Project>
-      <Name>PromotionEngine.DTO</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

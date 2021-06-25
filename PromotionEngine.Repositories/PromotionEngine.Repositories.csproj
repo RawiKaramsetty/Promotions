@@ -48,7 +48,7 @@
     <Compile Include="Repositories\PromotionEngineRepositery.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\PromotionEngine.ViewModels\PromotionEngine.DTO.csproj">
+    <ProjectReference Include="..\PromotionEngine.DTO\PromotionEngine.DTO.csproj">
       <Project>{65776E34-C682-4CE6-8DE0-AB44DAF1813E}</Project>
       <Name>PromotionEngine.DTO</Name>
     </ProjectReference>

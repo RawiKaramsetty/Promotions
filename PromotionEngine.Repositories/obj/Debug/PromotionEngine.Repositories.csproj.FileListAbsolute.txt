@@ -7,3 +7,12 @@ C:\Users\badik\source\repos\PromotionEngine\PromotionEngine.Repositories\bin\Deb
 C:\Users\badik\source\repos\PromotionEngine\PromotionEngine.Repositories\obj\Debug\PromotionEngine.Repositories.csproj.CopyComplete
 C:\Users\badik\source\repos\PromotionEngine\PromotionEngine.Repositories\obj\Debug\PromotionEngine.Repositories.dll
 C:\Users\badik\source\repos\PromotionEngine\PromotionEngine.Repositories\obj\Debug\PromotionEngine.Repositories.pdb
+D:\Sandeep\New folder\Promotions\PromotionEngine.Repositories\bin\Debug\PromotionEngine.Repositories.dll
+D:\Sandeep\New folder\Promotions\PromotionEngine.Repositories\bin\Debug\PromotionEngine.Repositories.pdb
+D:\Sandeep\New folder\Promotions\PromotionEngine.Repositories\bin\Debug\PromotionEngine.DTO.dll
+D:\Sandeep\New folder\Promotions\PromotionEngine.Repositories\bin\Debug\PromotionEngine.DTO.pdb
+D:\Sandeep\New folder\Promotions\PromotionEngine.Repositories\obj\Debug\PromotionEngine.Repositories.csprojAssemblyReference.cache
+D:\Sandeep\New folder\Promotions\PromotionEngine.Repositories\obj\Debug\PromotionEngine.Repositories.csproj.CoreCompileInputs.cache
+D:\Sandeep\New folder\Promotions\PromotionEngine.Repositories\obj\Debug\PromotionEngine.Repositories.csproj.CopyComplete
+D:\Sandeep\New folder\Promotions\PromotionEngine.Repositories\obj\Debug\PromotionEngine.Repositories.dll
+D:\Sandeep\New folder\Promotions\PromotionEngine.Repositories\obj\Debug\PromotionEngine.Repositories.pdb

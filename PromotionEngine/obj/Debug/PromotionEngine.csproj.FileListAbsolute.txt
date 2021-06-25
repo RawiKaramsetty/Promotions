@@ -12,3 +12,17 @@ C:\Users\badik\source\repos\PromotionEngine\PromotionEngine\bin\Debug\PromotionE
 C:\Users\badik\source\repos\PromotionEngine\PromotionEngine\obj\Debug\PromotionEngine.csproj.CopyComplete
 C:\Users\badik\source\repos\PromotionEngine\PromotionEngine\obj\Debug\PromotionEngine.exe
 C:\Users\badik\source\repos\PromotionEngine\PromotionEngine\obj\Debug\PromotionEngine.pdb
+D:\Sandeep\New folder\Promotions\PromotionEngine\bin\Debug\PromotionEngine.exe.config
+D:\Sandeep\New folder\Promotions\PromotionEngine\bin\Debug\PromotionEngine.exe
+D:\Sandeep\New folder\Promotions\PromotionEngine\bin\Debug\PromotionEngine.pdb
+D:\Sandeep\New folder\Promotions\PromotionEngine\bin\Debug\PromotionEngine.DTO.dll
+D:\Sandeep\New folder\Promotions\PromotionEngine\bin\Debug\PromotionEngine.Services.dll
+D:\Sandeep\New folder\Promotions\PromotionEngine\bin\Debug\PromotionEngine.Repositories.dll
+D:\Sandeep\New folder\Promotions\PromotionEngine\bin\Debug\PromotionEngine.DTO.pdb
+D:\Sandeep\New folder\Promotions\PromotionEngine\bin\Debug\PromotionEngine.Services.pdb
+D:\Sandeep\New folder\Promotions\PromotionEngine\bin\Debug\PromotionEngine.Repositories.pdb
+D:\Sandeep\New folder\Promotions\PromotionEngine\obj\Debug\PromotionEngine.csprojAssemblyReference.cache
+D:\Sandeep\New folder\Promotions\PromotionEngine\obj\Debug\PromotionEngine.csproj.CoreCompileInputs.cache
+D:\Sandeep\New folder\Promotions\PromotionEngine\obj\Debug\PromotionEngine.csproj.CopyComplete
+D:\Sandeep\New folder\Promotions\PromotionEngine\obj\Debug\PromotionEngine.exe
+D:\Sandeep\New folder\Promotions\PromotionEngine\obj\Debug\PromotionEngine.pdb

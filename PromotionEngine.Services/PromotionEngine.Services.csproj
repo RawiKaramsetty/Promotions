@@ -50,7 +50,7 @@
       <Project>{dc36dc29-7b28-4bb1-8371-29c6c44dc4ee}</Project>
       <Name>PromotionEngine.Repositories</Name>
     </ProjectReference>
-    <ProjectReference Include="..\PromotionEngine.ViewModels\PromotionEngine.DTO.csproj">
+    <ProjectReference Include="..\PromotionEngine.DTO\PromotionEngine.DTO.csproj">
       <Project>{65776e34-c682-4ce6-8de0-ab44daf1813e}</Project>
       <Name>PromotionEngine.DTO</Name>
     </ProjectReference>

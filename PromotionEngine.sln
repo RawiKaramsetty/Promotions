@@ -11,7 +11,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PromotionEngine.Services", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PromotionEngine.Repositories", "PromotionEngine.Repositories\PromotionEngine.Repositories.csproj", "{DC36DC29-7B28-4BB1-8371-29C6C44DC4EE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PromotionEngine.DTO", "PromotionEngine.ViewModels\PromotionEngine.DTO.csproj", "{65776E34-C682-4CE6-8DE0-AB44DAF1813E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PromotionEngine.DTO", "PromotionEngine.DTO\PromotionEngine.DTO.csproj", "{65776E34-C682-4CE6-8DE0-AB44DAF1813E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
