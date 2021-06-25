@@ -49,11 +49,25 @@
     <Reference Include="System.Core" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="UnitTest1.cs" />
+    <Compile Include="PromotionEngineServiceTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\PromotionEngine.DTO\PromotionEngine.DTO.csproj">
+      <Project>{65776E34-C682-4CE6-8DE0-AB44DAF1813E}</Project>
+      <Name>PromotionEngine.DTO</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\PromotionEngine.Repositories\PromotionEngine.Repositories.csproj">
+      <Project>{DC36DC29-7B28-4BB1-8371-29C6C44DC4EE}</Project>
+      <Name>PromotionEngine.Repositories</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\PromotionEngine.Services\PromotionEngine.Services.csproj">
+      <Project>{855505D5-40AE-4C5D-9064-87CD6D66C426}</Project>
+      <Name>PromotionEngine.Services</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(VSToolsPath)\TeamTest\Microsoft.TestTools.targets" Condition="Exists('$(VSToolsPath)\TeamTest\Microsoft.TestTools.targets')" />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

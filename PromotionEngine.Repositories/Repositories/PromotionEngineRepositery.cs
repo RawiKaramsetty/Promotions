@@ -10,7 +10,7 @@ namespace PromotionEngine.Repositories.Repositories
 {
     public class PromotionEngineRepositery : IPromotionEngineRepositery
     {
-        private List<Promotion> GetPromotions()
+        private static List<Promotion> GetPromotions()
         {
             List<Promotion> promotions = new List<Promotion>();
             promotions.Add(new Promotion { SKUName = SKU.A.ToString(), PromotionPrice = 130, PromotionQuantity = 3, IsPromotionActive = true });
@@ -24,7 +24,7 @@ namespace PromotionEngine.Repositories.Repositories
             return ProcessPromotionHelper(cartItems);
         }
 
-        private static List<CartDTO> ProcessPromotionHelper(List<CartItem> cartItems)
+        private List<CartDTO> ProcessPromotionHelper(List<CartItem> cartItems)
         {
             List<CartDTO> items = new List<CartDTO>();
             CartDTO cartItem; Promotion promotion;
