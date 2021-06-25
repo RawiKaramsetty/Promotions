@@ -1,0 +1,11 @@
+C:\Users\badik\source\repos\PromotionEngine\PromotionEngine.Services\obj\Debug\PromotionEngine.Services.csproj.CoreCompileInputs.cache
+C:\Users\badik\source\repos\PromotionEngine\PromotionEngine.Services\bin\Debug\PromotionEngine.Services.dll
+C:\Users\badik\source\repos\PromotionEngine\PromotionEngine.Services\bin\Debug\PromotionEngine.Services.pdb
+C:\Users\badik\source\repos\PromotionEngine\PromotionEngine.Services\bin\Debug\PromotionEngine.Repositories.dll
+C:\Users\badik\source\repos\PromotionEngine\PromotionEngine.Services\bin\Debug\PromotionEngine.ViewModels.dll
+C:\Users\badik\source\repos\PromotionEngine\PromotionEngine.Services\bin\Debug\PromotionEngine.Repositories.pdb
+C:\Users\badik\source\repos\PromotionEngine\PromotionEngine.Services\bin\Debug\PromotionEngine.ViewModels.pdb
+C:\Users\badik\source\repos\PromotionEngine\PromotionEngine.Services\obj\Debug\PromotionEngine.Services.csprojAssemblyReference.cache
+C:\Users\badik\source\repos\PromotionEngine\PromotionEngine.Services\obj\Debug\PromotionEngine.Services.csproj.CopyComplete
+C:\Users\badik\source\repos\PromotionEngine\PromotionEngine.Services\obj\Debug\PromotionEngine.Services.dll
+C:\Users\badik\source\repos\PromotionEngine\PromotionEngine.Services\obj\Debug\PromotionEngine.Services.pdb

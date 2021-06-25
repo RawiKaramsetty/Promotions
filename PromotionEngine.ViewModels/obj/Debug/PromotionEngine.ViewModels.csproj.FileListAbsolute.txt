@@ -1,0 +1,6 @@
+C:\Users\badik\source\repos\PromotionEngine\PromotionEngine.ViewModels\bin\Debug\PromotionEngine.ViewModels.dll
+C:\Users\badik\source\repos\PromotionEngine\PromotionEngine.ViewModels\bin\Debug\PromotionEngine.ViewModels.pdb
+C:\Users\badik\source\repos\PromotionEngine\PromotionEngine.ViewModels\obj\Debug\PromotionEngine.ViewModels.csprojAssemblyReference.cache
+C:\Users\badik\source\repos\PromotionEngine\PromotionEngine.ViewModels\obj\Debug\PromotionEngine.ViewModels.csproj.CoreCompileInputs.cache
+C:\Users\badik\source\repos\PromotionEngine\PromotionEngine.ViewModels\obj\Debug\PromotionEngine.ViewModels.dll
+C:\Users\badik\source\repos\PromotionEngine\PromotionEngine.ViewModels\obj\Debug\PromotionEngine.ViewModels.pdb
