@@ -10,7 +10,7 @@ namespace PromotionEngine.Repositories.Repositories
 {
     public class PromotionEngineRepositery : IPromotionEngineRepositery
     {
-        private static List<Promotion> GetPromotions()
+        private List<Promotion> GetPromotions()
         {
             List<Promotion> promotions = new List<Promotion>();
             promotions.Add(new Promotion { SKUName = SKU.A.ToString(), PromotionPrice = 130, PromotionQuantity = 3, IsPromotionActive = true });
